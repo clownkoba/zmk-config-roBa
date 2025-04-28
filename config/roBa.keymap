@@ -78,8 +78,8 @@
 
         NUMBER {
             bindings = <
-&trans  &trans  &trans  &kp AMPERSAND  &kp PERCENT                                                    &trans        &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp COMMA
-&trans  &trans  &trans  &kp PLUS       &kp ASTERISK  &kp SEMICOLON             &kp COLON              &kp TAB       &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp EQUAL
+&trans  &trans  &trans  &kp AMPERSAND  &kp PERCENT                                                    &trans        &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp EQUAL
+&trans  &trans  &trans  &kp PLUS       &kp ASTERISK  &kp SEMICOLON             &kp COLON              &kp TAB       &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp MINUS
 &trans  &trans  &trans  &kp MINUS      &kp SLASH     &kp LEFT_PARENTHESIS      &kp RIGHT_PARENTHESIS  &kp NUMBER_0  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp PERIOD
 &trans  &trans  &trans  &trans         &trans        &trans                    &trans                 &trans                                                  &kp SLASH
             >;
